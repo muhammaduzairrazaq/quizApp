@@ -17,7 +17,7 @@ class NameInputScreen extends StatelessWidget {
         child: Center(
           child: Column(
             mainAxisAlignment: MainAxisAlignment.center,
-            children: <Widget>[
+            children: [
               Text(
                 'Let\'s Play Quiz',
                 style: TextStyle(
@@ -79,9 +79,10 @@ class NameInputScreen extends StatelessWidget {
                     padding: EdgeInsets.all(10.0),
                     child: Center(
                       child: Text(
-                        'Let\'s Start Quiz',
+                        'Start Quiz',
                         style: TextStyle(
                           color: Colors.white,
+                          fontSize: 18,
                         ),
                       ),
                     ),
