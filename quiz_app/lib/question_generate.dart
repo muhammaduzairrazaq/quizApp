@@ -38,11 +38,10 @@ class Questions {
     return _questions.length;
   }
 
-  
   String? getCorrectAnswer(int questionIndex) {
     if (questionIndex >= 0 && questionIndex < _questions.length) {
       return _questions[questionIndex]['correctAnswer'];
     }
-    return null; // Return null if the index is out of bounds
+    return null;
   }
 }

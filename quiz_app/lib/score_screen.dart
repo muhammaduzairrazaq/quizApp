@@ -40,7 +40,7 @@ class ScoreScreen extends StatelessWidget {
                   ),
                 SizedBox(height: 15),
                 Text(
-                  score >= 4 ? 'Congratulations $name!' : 'Better luck $name!',
+                  score >= 4 ? 'Congratulations $name !' : 'Better Luck $name !',
                   style: TextStyle(
                     fontSize: 24,
                     fontWeight: FontWeight.bold,
@@ -49,10 +49,11 @@ class ScoreScreen extends StatelessWidget {
                 ),
                 SizedBox(height: 15),
                 Text(
-                  'Your score: $score',
+                  'Your Score : $score',
                   style: TextStyle(
                     fontSize: 18,
                     color: Colors.white,
+                    fontWeight: FontWeight.bold,
                   ),
                 ),
                 SizedBox(height: 30),

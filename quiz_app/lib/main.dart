@@ -6,7 +6,5 @@ void main() {
   runApp(MaterialApp(
     debugShowCheckedModeBanner: false,
     home: NameInputScreen(),
-    // home: ScoreScreen(score: 4),
-
   ));
 }

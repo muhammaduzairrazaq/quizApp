@@ -12,6 +12,7 @@ class QuestionsScreen extends StatefulWidget {
 
 class _QuestionsScreenState extends State<QuestionsScreen> {
   int _questionIndex = 0;
+  int _realquestion = 1;
   int _correctAnswers = 0;
   double _timerValue = 1.0;
   bool _answered = false;
@@ -25,10 +26,10 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
   }
 
   void startTimer() {
-    Future.delayed(Duration(milliseconds: 20), () {
+    Future.delayed(Duration(milliseconds: 1000), () {
       if (_timerValue > 0.0) {
         setState(() {
-          _timerValue -= 0.01 / 10;
+          _timerValue -= 0.05;
         });
         startTimer();
       } else {
@@ -52,6 +53,7 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
     if (_questionIndex < _questions.getQuestionCount() - 1) {
       setState(() {
         _questionIndex++;
+        _realquestion++;
         _timerValue = 1.0;
         startTimer();
         _answered = false;
@@ -109,8 +111,18 @@ class _QuestionsScreenState extends State<QuestionsScreen> {
                 ),
                 child: Column(
                   children: [
+                     Padding(
+                      padding: const EdgeInsets.all(10.0),
+                      child: Text(
+                        '$_realquestion/5',
+                        style: TextStyle(
+                          fontSize: 20,
+                          color: Colors.white,
+                        ),
+                      ),
+                    ),
                     Padding(
-                      padding: const EdgeInsets.all(30.0),
+                      padding: const EdgeInsets.all(15.0),
                       child: Text(
                         question?['question'],
                         style: TextStyle(
