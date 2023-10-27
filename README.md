@@ -68,11 +68,11 @@ In this project I have created a Quiz app.
 - The Live Demo link will be available soon!
 
 ## 🖼️ Running App Pictures <a name="pictures"></a>
-- ![WhatsApp Image 2023-10-28 at 12 25 59 AM](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/bd44c01d-f6a8-4447-8860-35e98466a1ab)
-- ![WhatsApp Image 2023-10-28 at 12 25 59 AM (1)](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/131e1cc5-e451-42bc-9af6-1202371266b9)
-- ![WhatsApp Image 2023-10-28 at 12 26 00 AM](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/1f0a6efb-1027-4c1d-af35-8bc67ff5817b)
-- ![WhatsApp Image 2023-10-28 at 12 26 00 AM (1)](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/3ca1a74b-7262-42f7-87e3-d98476f8c584)
-- ![WhatsApp Image 2023-10-28 at 12 26 00 AM (2)](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/90b597cd-b382-42c8-b697-6768c2cecf59)
+- ![WhatsApp Image 2023-10-28 at 12 25 59 AM](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/12875edb-3f0f-4038-b93e-75b813a0952d)
+- ![WhatsApp Image 2023-10-28 at 12 25 59 AM (1)](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/45c16877-d38b-4741-8037-543be6ffa56b)
+- ![WhatsApp Image 2023-10-28 at 12 26 00 AM](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/585b9e57-f85f-4dfd-b991-c6c00db70c9f)
+- ![WhatsApp Image 2023-10-28 at 12 26 00 AM (1)](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/411e2d66-8aab-42c8-afd6-51bb9c499d20)
+- ![WhatsApp Image 2023-10-28 at 12 26 00 AM (2)](https://github.com/muhammaduzairrazaq/quizApp/assets/138608690/fc76ca4c-8394-4754-abd1-55a6bdf1f316)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
