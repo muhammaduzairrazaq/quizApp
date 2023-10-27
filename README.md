@@ -28,7 +28,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 [Xylophone App Flutter] <a name="about-project"></a>
+# 📖 [Quiz App Flutter] <a name="about-project"></a>
 In this project I have created a Quiz app.
 
 ## 🛠 Built With <a name="built-with"></a>
@@ -96,7 +96,7 @@ Example command:
 
 ```sh
   cd my-folder
-  git clone: (git@github.com:muhammaduzairrazaq/xylophone.git)
+  git clone: (git@github.com:muhammaduzairrazaq/quizApp.git)
 ```
 
 ### Install
